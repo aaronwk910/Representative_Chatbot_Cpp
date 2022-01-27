@@ -1,0 +1,11 @@
+This program takes as input a type of shape (rectangle, triangle, or circle) as well as up to 3 numbers.
+The numbers denote the length and width of the rectangle, the radius of the circle, or the three side lengths
+of the triangle. Extraneous numbers are ignored.
+
+Sample input is as follows, with a command line argument of 1
+
+circle 7 3 4
+
+sample output is as follows. The number 7 denotes the radius of the circle. 3 and 4 are ignored.
+
+CIRCLE AREA 153.938040
