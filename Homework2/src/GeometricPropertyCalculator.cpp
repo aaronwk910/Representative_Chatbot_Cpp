@@ -85,6 +85,7 @@ void processOutput() //outputs results
 			output = "Cannot open output file";
 			cout << output << endl;
 		}
+	outputstream.close()
 }//end processOutput
 
 void shapeCalc(shape shape1, int demand) //calculates area or perimeter for given shape and sets output string
