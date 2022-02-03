@@ -1,0 +1,11 @@
+This program is intended to extract the relevant data from district_92_data.txt and store it as variables
+in the r1 instance of the representative class defined in the representative92 header and usage files.
+The main program is labeled as district_92_data_storage.cpp.
+
+This program takes as input from the user the name of the district in question. If the district is 92,
+Berkeley, or Berkeley County, the program will extract the data on this district's representative, store
+it inside of the r1 instance of the representative class, and output the data to console to signal success.
+It also outputs statistics on the input file at the end of the output! In practice, the program will not
+output the data stored in r1, but will simply use it to answer user questions.
+
+Sample input and output are located in the test folder in sample_io.txt
