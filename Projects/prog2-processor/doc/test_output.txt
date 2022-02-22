@@ -1,0 +1,93 @@
+Supported command line options are as follows, all are case-insensitive:
+
+contact information
+contact information:name
+contact information:phone
+contact information:home phone
+contact information:business phone
+contact information:address
+contact information:home address
+contact information:business address
+contact information:region
+personal information
+service information
+
+sample input:
+contact information:name
+
+sample output:
+Representative Joseph S. Daning
+
+sample input:
+contact information:phone
+
+sample output:
+Business Phone: (803)734-2951
+Home Phone: (843)553-9288
+
+sample input:
+contact information:home phone
+
+sample output:
+(843)553-9288
+
+sample input:
+contact information:business phone
+
+sample output:
+(803)734-2951
+
+sample input:
+contact information:address
+
+sample output:
+Business Address: 310C Blatt Bldg.  Columbia South Carolina 29201
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+sample input:
+contact information:home address
+
+sample output:
+118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+sample input:
+contact information:business address
+
+sample output:
+310C Blatt Bldg.  Columbia South Carolina 29201
+
+sample input:
+contact information:region
+
+sample output:
+Berkeley County
+
+sample input:
+contact information
+
+sample output:
+Name: Representative Joseph S. Daning
+Home Phone: (843)553-9288
+Business Phone: (803)734-2951
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+Business Address 310C Blatt Bldg.  Columbia South Carolina 29201
+County: Berkeley
+
+sample input:
+personal information
+
+sample output:
+Director, Workforce and Military Programs, Trident Technical College
+Member, South Carolina Technical Education Association, 2003-
+Board member, Council on Military Educators of South Carolina, 2004-08
+Berkeley, Charleston, Dorchester Council of Governments, Transportation subcommittee, 2007-
+Member, Immaculate Conception Catholic Church
+United States Air Force, 1960-64
+
+sample input:
+service information
+
+sample output:
+City of Goose Creek, City Council, 1978 - 1986, 1992 -
+Mayor Pro Tem, 2008
+House of Representatives, March 25, 2008 - Present

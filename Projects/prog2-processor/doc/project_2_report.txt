@@ -1,0 +1,4 @@
+This program is intended to take the in district_92_data.txt, store it into the class Representative, take a
+command line input request for information, and output the correct information to the user. The command line
+request is analyzed using regular expressions and the appropriate response is then determined and the data
+is extracted from the constructed instance of Representative. That instance is then destructed upon program end. 
