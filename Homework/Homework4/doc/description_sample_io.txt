@@ -1,0 +1,16 @@
+This program is intended to parse outlook and gmail emails by their headers. Given outlook or gmail as well as
+the desired "part" of the message, the program will populate an instance of an email object with information
+from the email and return the desired part.
+
+Sample Input is as follows and is case insensitive:
+Outlook CC:
+gmail from:
+outlook thread-index:
+gmail to:
+etc.
+
+Sample output is as follows:
+"Baldwin, Randi" <baldwin@cse.sc.edu>
+AAAI Staff <aaai22@aaai.org>
+… +AAAIRpoAAAp/ggAAAJH0=
+Biplav Srivastava <biplav.srivastava@gmail.com>

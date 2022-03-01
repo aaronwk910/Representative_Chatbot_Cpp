@@ -1,0 +1,19 @@
+Microsoft Outlook Header
+Received: from DS7PR19MB5853.namprd19.prod.outlook.com …
+Authentication-Results: dkim=none (message not signed
+Received: from …
+Content-Type: application/ms-tnef; name="winmail.dat" • Content-Transfer-Encoding: binary
+From: "Sri Naga Sushmitha, Satti" <SATTI@cse.sc.edu>
+To: "Srivastava, Biplav" <BIPLAV.S@sc.edu>
+CC: "Baldwin, Randi" <baldwin@cse.sc.edu>
+Subject: Re: Possible need for … 240
+Thread-Topic: Possible need for printout for .. 240
+Thread-Index: … +AAAIRpoAAAp/ggAAAJH0=
+Date: Tue, 15 Feb 2022 13:52:33 +0000
+Message-ID: <…>
+References: …
+In-Reply-To: <…>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1 
