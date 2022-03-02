@@ -1,0 +1,11 @@
+This program is intended to take as input a question about the representative through the command line. The 
+program then sends the answer out to the user via the command line as well.
+
+First, the program creates an instance of the class representative named r1. Then it parses the input file
+by header to populate the values within r1. Then in the main function, the user is prompted to ask a question.
+
+This question, so long as it isnt "quit" or "q"(case insensitive), will be fed to r1.processQuestion. This
+function takes in a string and uses regex to determine what type of information is being requested. It then
+sends a request to r1.answerQuestion, which takes in an input string asking for a type of information and
+outputs that information as a string. The main function then displays this string for the user and prompts
+them for another question!
