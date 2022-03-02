@@ -1,0 +1,45 @@
+Input range for this program is unlimited, as regex is used to determine the meaning of the input. Sample
+inputs and outputs are provided below:
+
+Input:
+where does the representative live
+
+Output:
+118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+Input:
+tell me about the rep
+
+Output:
+Educator
+Residing in Goose Creek
+Born December 12, 1942 in Philadelphia, Pennsylvania
+Son of Sofronio and Mary
+Trident Technical College, A.B., 1992
+Southern Illinois University, B.S., 1995
+Webster University, M.A., 1999
+September 21, 1964 married Brenda Joyce, 2 children, Michael and Timothy
+Member, Immaculate Conception Catholic Church
+United States Air Force, 1960-64
+
+Input:
+How do I contact the rep
+
+Output:
+Name: Representative Joseph S. Daning
+Home Phone: (843)553-9288
+Business Phone: (803)734-2951
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+Business Address 310C Blatt Bldg.  Columbia South Carolina 29201
+County: Berkeley
+
+Input:
+what committees is my repo on
+
+Output:
+Economic Development Committee, 1994-08
+Low Country Educational Admissions Reps. Network, 2003-
+Director, Workforce and Military Programs, Trident Technical College
+Member, South Carolina Technical Education Association, 2003-
+Board member, Council on Military Educators of South Carolina, 2004-08
+Berkeley, Charleston, Dorchester Council of Governments, Transportation subcommittee, 2007-
