@@ -228,7 +228,7 @@ void answerQuestion(string i){				//uses a regex on a string to determine the be
 				answer = "Business Phone: " + r1.businessPhone.getPhoneNumber() + "\nHome Phone: " + r1.homephone.getPhoneNumber();
 		}
 		else if(regex_match(i, name))
-			cout << "rip" << endl;
+			answer = r1.name.getFullName();
 		else if(regex_match(i, address)){
 			if(regex_match(i, business))
 				answer = r1.businessAddress.getAddress();
