@@ -1,0 +1,22 @@
+This program is intended to take as input from the user one or two numbers. If one number is given, the
+factorial of that number is returned. If two numbers are given, the first number must be greater than the
+second number, and the combination of the two is returned. Negative numbers or nonnumeric inputs are not
+accepted.
+
+Example input:
+6 2
+output:
+15
+Time for processing: 0.001029s
+
+input:
+6
+output:
+720
+Time for processing: 0.000997s
+
+input:
+0 0
+output:
+Inputs must be numeric, nonzero, and positive.
+Time for processing: 0.003989s
