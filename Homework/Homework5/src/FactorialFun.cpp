@@ -36,7 +36,7 @@ int main(int argc, char *argv[]){ //takes argument 1 or 2 for operation and call
 	}
 	else if (argc == 2){
 		try{
-			if(!isdigit(*argv[1])||*argv[1]-48==0)
+			if(!isdigit(*argv[1]))
 				throw "Inputs must be numeric, nonzero, and positive.";
 			string s1(argv[1]);
 			double arg = stod(s1);
@@ -47,7 +47,7 @@ int main(int argc, char *argv[]){ //takes argument 1 or 2 for operation and call
 	}
 	else if (argc == 3){
 		try{
-			if(!isdigit(*argv[1])||!isdigit(*argv[2])||*argv[1]-48==0||*argv[2]-48==0)
+			if(!isdigit(*argv[1])||!isdigit(*argv[2]))
 				throw "Inputs must be numeric, nonzero, and positive.";
 			string s1(argv[1]);
 			string s2(argv[2]);
