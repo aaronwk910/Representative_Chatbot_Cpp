@@ -1,0 +1,8 @@
+This program is intended to take a query about the representative from the user through the console
+and return the appropriate information about the representative. The current supported inputs are the 6 
+inputs suggested in class and listed in the test folder, however the framework exists to expand the supported
+inputs to those asking for specific phone numbers, addresses, etc.
+
+Usage: Simply press run and the program will welcome you and prompt you to enter a question! If the question
+is recognized, the appropriate output will be sent. If not, you will be prompted to rephrase and try again.
+Press q or type "quit" to quit. All inputs are case insensitive.
