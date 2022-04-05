@@ -1,0 +1,9 @@
+Welcome to the district 92 chatbot!
+
+Please enter your question!
+where does the rep live
+118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+Please enter your question!
+quit
+Thank you for using the district 92 chatbot! Goodbye!
