@@ -52,7 +52,7 @@ void generateFileName(string s){
 	s+=vstrings[4]+"_";
 	vstrings[3].erase(remove(vstrings[3].begin(), vstrings[3].end(), ':'), vstrings[3].end());
 	s+=vstrings[3]+".txt";
-	outputFile="data/"+s;
+	outputFile="data/chat_sessions/"+s;
 }
 
 void writeToOF(string i){

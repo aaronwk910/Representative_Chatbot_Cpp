@@ -1,0 +1,23 @@
+Welcome to the district 92 chatbot!
+
+Please enter your question!
+where does my rep live
+118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+Please enter your question!
+what committees has my rep been on
+Sorry, no match found. Please rephrase and try again!
+
+Please enter your question!
+what committees is my rep on
+Economic Development Committee, 1994-08
+Low Country Educational Admissions Reps. Network, 2003-
+Director, Workforce and Military Programs, Trident Technical College
+Member, South Carolina Technical Education Association, 2003-
+Board member, Council on Military Educators of South Carolina, 2004-08
+Berkeley, Charleston, Dorchester Council of Governments, Transportation subcommittee, 2007-
+
+
+Please enter your question!
+quit
+Thank you for using the district 92 chatbot! Goodbye!
