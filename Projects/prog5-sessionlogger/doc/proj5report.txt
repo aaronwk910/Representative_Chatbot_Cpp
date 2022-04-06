@@ -1,9 +1,0 @@
-This program is an extension of the previous chatbot programs. The functionality added in
-this program allows for different arguments to the program, "showchat", "summary", and
-"showchat-summary", which show different statistics regarding stored chat sessions from the past.
-
-Valid inputs and expected outputs can be found in the test folder. 
-
-Due to an issue with Eclipse, my files are currently not being sent to data/chat_sessions but are
-instead only being sent to data/, as they are not recognized when located within the chat_sessions
-directory.
