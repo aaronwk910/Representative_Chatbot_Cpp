@@ -1,0 +1,5 @@
+Welcome to the district 92 chatbot!
+
+Please enter your question!
+quit
+Thank you for using the district 92 chatbot! Goodbye!
