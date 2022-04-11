@@ -1,0 +1,86 @@
+Welcome to the district 92 chatbot!
+
+Please enter your question!
+Tell me about the representative
+
+Name: Representative Joseph S. Daning
+Home Phone: (843)553-9288
+Business Phone: (803)734-2951
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+Business Address 310C Blatt Bldg.  Columbia South Carolina 29201
+
+Educator
+Residing in Goose Creek
+Born December 12, 1942 in Philadelphia, Pennsylvania
+Son of Sofronio and Mary
+Trident Technical College, A.B., 1992
+Southern Illinois University, B.S., 1995
+Webster University, M.A., 1999
+September 21, 1964 married Brenda Joyce, 2 children, Michael and Timothy
+Member, Immaculate Conception Catholic Church
+United States Air Force, 1960-64
+
+City of Goose Creek, City Council, 1978 - 1986, 1992 -
+Mayor Pro Tem, 2008
+House of Representatives, March 25, 2008 - Present
+
+
+Please enter your question!
+Where does the rep live
+118 Queensbury Cir.  Goose Creek South Carolina 29445
+
+Please enter your question!
+How do I contact my rep
+Name: Representative Joseph S. Daning
+Home Phone: (843)553-9288
+Business Phone: (803)734-2951
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+Business Address 310C Blatt Bldg.  Columbia South Carolina 29201
+
+Please enter your question!
+what committees is my repo on
+Economic Development Committee, 1994-08
+Low Country Educational Admissions Reps. Network, 2003-
+Director, Workforce and Military Programs, Trident Technical College
+Member, South Carolina Technical Education Association, 2003-
+Board member, Council on Military Educators of South Carolina, 2004-08
+Berkeley, Charleston, Dorchester Council of Governments, Transportation subcommittee, 2007-
+
+
+Please enter your question!
+Tell me everything
+
+Name: Representative Joseph S. Daning
+Home Phone: (843)553-9288
+Business Phone: (803)734-2951
+Home Address: 118 Queensbury Cir.  Goose Creek South Carolina 29445
+Business Address 310C Blatt Bldg.  Columbia South Carolina 29201
+
+Educator
+Residing in Goose Creek
+Born December 12, 1942 in Philadelphia, Pennsylvania
+Son of Sofronio and Mary
+Trident Technical College, A.B., 1992
+Southern Illinois University, B.S., 1995
+Webster University, M.A., 1999
+September 21, 1964 married Brenda Joyce, 2 children, Michael and Timothy
+Member, Immaculate Conception Catholic Church
+United States Air Force, 1960-64
+
+City of Goose Creek, City Council, 1978 - 1986, 1992 -
+Mayor Pro Tem, 2008
+House of Representatives, March 25, 2008 - Present
+
+
+Please enter your question!
+What district do you support for Q/A
+
+district 92!
+
+Please enter your question!
+whats your favorite color
+Sorry, no match found. Please rephrase and try again!
+
+Please enter your question!
+quit
+Thank you for using the district 92 chatbot! Goodbye!
